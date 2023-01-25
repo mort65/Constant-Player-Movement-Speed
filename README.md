@@ -1,7 +1,7 @@
 # Constant-Player-Movement-Speed
-It keeps the player's movement speed and prevents walking in slow motion.
+Maintains the player character's movement speed and prevents walking in slow motion.
 
-Different mods add debuff to the player which slows the movement speed. This mod prevents that by monitoring the "SpeedMult" actor value for the player and restoring it if it's not at the default value.
+Many mods add annoying debuffs to the player which slows the movement speed. This mod prevents that by monitoring the "SpeedMult" actor value for the player and restoring it if it's not at the default value.
 
 By default the mod doesn't change player speed when in combat to enable it in combat use this console command:
 
