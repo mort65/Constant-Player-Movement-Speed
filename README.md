@@ -1,4 +1,4 @@
-# Constant-Player-Movement-Speed
+# Slow-Remover
 Maintains the player character's movement speed and prevents walking in slow motion.
 
 Many mods add annoying debuffs to the player which slows the movement speed and When they stack player walks in slow motion or doesn't move at all. 
